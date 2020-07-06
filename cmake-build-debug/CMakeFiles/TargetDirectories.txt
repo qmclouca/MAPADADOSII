@@ -1,0 +1,3 @@
+C:/Users/Rodolfo Bortoluzzi/CLionProjects/MAPADADOSII/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Rodolfo Bortoluzzi/CLionProjects/MAPADADOSII/cmake-build-debug/CMakeFiles/MAPADADOSII.dir
+C:/Users/Rodolfo Bortoluzzi/CLionProjects/MAPADADOSII/cmake-build-debug/CMakeFiles/edit_cache.dir
